@@ -222,7 +222,7 @@ rm -rf menu free.zip
 cat> /etc/systemd/system/ws-dropbear.service << END
 
 [Unit]
-Description=Websocket Python By XDXL STORE
+Description=Websocket Python By FARUK BROWSER
 Documentation=https://google.com
 After=network.target nss-lookup.target
 

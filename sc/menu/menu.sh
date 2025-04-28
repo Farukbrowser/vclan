@@ -74,7 +74,7 @@ ungu='\033[0;35m'
 w='\033[1;96m'
 clear
 lane_atas
-echo -e " ${blue}│ \e[1;92;41m                XDXL STORE TUNNELING              ${NC}${blue} │${NC}"
+echo -e " ${blue}│ \e[1;92;41m                FARUK BROWSER TUNNELING              ${NC}${blue} │${NC}"
 lane_bawah
 lane_atas
 echo -e " ${blue}│${NC} OS            ${NC}:  "`hostnamectl | grep "Operating System" | cut -d ' ' -f5-`

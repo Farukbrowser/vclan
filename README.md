@@ -10,7 +10,7 @@
  </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=XDXL+PROJECT" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=24CLAN.NET+PROJECT" />
 </p>
 
 ![XDXL%20STORE card name](https://cardivo.vercel.app/api?name=XDXL%20STORE&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Farukbrowser/Farukbrowser/main/profile.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Farukbrowser&pattern=leaf&colorPattern=%23eaeaea)
@@ -67,7 +67,7 @@ wget -q https://raw.githubusercontent.com/Farukbrowser/vclan/main/main.sh && chm
 
 
 ### CREDIT
-- BASE CODE [@xdxl_store](https://t.me/xdxl_store) & [@GITHUB](https://github.com/Farukbrowser/free)
+- BASE CODE [@faruk_browser](https://t.me/faruk_browser) & [@GITHUB](https://github.com/Farukbrowser/free)
      <p align="center"><img src="https://img.shields.io/badge/%20COPYRIGHT%20%C2%A9%202023-%20By%20XDXL%20STORE%2C%20Inc-blue"></p> 
  <b> 
  </b> 

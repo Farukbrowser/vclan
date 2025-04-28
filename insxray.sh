@@ -640,7 +640,7 @@ TEXT="
 <i>Automatic Notifications From</i>
 <b>𝑿𝑫𝑿𝑳 𝑺𝑻𝑶𝑹𝑬 𝑩𝑶𝑻</b>
 <code>────────────────────</code>
-"'&reply_markup={"inline_keyboard":[[{"text":" ⛈️ ʙᴜʏ ꜱᴄʀɪᴘᴛ ⛈️ ","url":"https://t.me/xdxl_store"}]]}' 
+"'&reply_markup={"inline_keyboard":[[{"text":" ⛈️ ʙᴜʏ ꜱᴄʀɪᴘᴛ ⛈️ ","url":"https://t.me/faruk_browser"}]]}' 
 
 if [ -f /root/scdomain ];then
 rm /root/scdomain > /dev/null 2>&1
